@@ -1,0 +1,29 @@
+.color-blue {
+  background-color: blue;
+}
+
+.color-red {
+  background-color: red;
+}
+
+.color-purple {
+  background-color: purple;
+}
+
+.color-green {
+  background-color: green;
+}
+
+div {
+	transition: all 5s ease;
+	width: 200px;
+	height: 200px;
+}
+
+p {
+	color: white;
+	font-size: 25px;
+	padding: 2em 0;
+	text-align: center;
+	font-family: sans-serif;
+}
